@@ -1,0 +1,43 @@
+/* body {
+    margin: 40px;
+    padding: 40px;
+}  */
+/* * {
+    display: flex;
+    flex-direction: row;
+    
+}   */
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+}
+.container {
+    display: flex;
+}
+.box-one {
+    background: red;
+    height:300px;
+    align-content: center;
+    margin: 60px 25px 0px;  
+}
+.box-two {
+    background: cyan;
+    height: 300px;
+    margin: 60px 10px 0px;
+}
+.box-three {
+    background: chartreuse;
+    height: 300px;
+    margin-top: 30px;
+}
+.img {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+}
+.img2 {
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    align-self: center;
+}
